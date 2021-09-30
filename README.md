@@ -1,4 +1,4 @@
-# Subscription API for telness technologies
+# Subscription API for a telecom startup
 
 ## Requirements
 A .env file containing the follow variables:
